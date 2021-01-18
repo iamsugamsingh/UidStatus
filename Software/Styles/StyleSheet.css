@@ -1,0 +1,24 @@
+﻿body 
+{
+   width:90%;
+   margin:auto;
+   background:tomato;
+}
+.heading
+{
+    text-align:center;
+    background:yellow;
+    margin:50px;
+}
+#uid
+{
+    margin-left:50px;  
+    margin-top:5px;
+}
+#TextBox1
+{
+    margin-left:50px;  
+    margin-top:5px;
+      
+}
+
